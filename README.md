@@ -20,7 +20,7 @@ Here's some of the ones I've worked on:
 
 #### JavaScript, React & React Native
 
- - 🧩 [Firebase Extensions](https://github.com/firebase/extensions)
+ - 🧩 [Firebase Extensions](https://github.com/firebase/extensions) - pre-packaged solutions to extend Firebase functionality.
  - 📘 [docs.page](https://github.com/invertase/docs.page) - create instant Open Source docs with zero configuration for your next Open Source project.
  - 🔥 [React Native Firebase](https://github.com/invertase/react-native-firebase) - a Firebase implementation for React Native supporting all Firebase services.
  - ⚛️ [Notifee](https://github.com/invertase/notifee) - a feature rich local notifications library for React Native Android & iOS.
