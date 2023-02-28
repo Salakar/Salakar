@@ -4,9 +4,9 @@ I'm Mike, CTO and co-founder at [Invertase](https://github.com/invertase).
 
 [![salakars's Github Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=salakar&count_private=true&theme=dark&show_icons=true&include_orgs=true )](https://github.com/invertase)
 
-I work mostly Open Source projects, be sure to check them out on the [Invertase](https://github.com/invertase) GitHub profile! 
+I work mostly on Open Source projects at Invertase, be sure to check them out on the [Invertase](https://github.com/invertase) GitHub profile! 
 
-Here's a few of the ones I've worked on:
+Here's some of the ones I've worked on:
 
 #### Dart & Flutter
 
