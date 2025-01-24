@@ -20,7 +20,7 @@ Here's some of the more recent projects I have created:
 
  - 🔥 [React Native Firebase](https://github.com/invertase/react-native-firebase) - a Firebase implementation for React Native supporting all Firebase services.
  - ⚛️ [Notifee](https://github.com/invertase/notifee) - a feature rich local notifications library for React Native Android & iOS.
- - ⏩ [Denque](https://github.com/Salakar/denque)
+ - ⏩ [Denque](https://github.com/Salakar/denque) - the fastest implementation of a double ended queue in JS. Used by the official Redis, MongoDB, MariaDB & MySQL libraries for Node.js and many other libraries.
 
 Excluding JS/TS these are some of the languages I've worked with the most:
 
