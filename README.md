@@ -1,12 +1,10 @@
 Hello there :wave: 
 
-I'm Mike, CTO and co-founder at [Invertase](https://github.com/invertase).
+I'm Mike.
 
-[![salakars's Github Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=salakar&count_private=true&theme=dark&show_icons=true&include_orgs=true )](https://github.com/invertase)
+![salakars's Github Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=salakar&count_private=true&theme=dark&show_icons=true&include_orgs=true )
 
-I work mostly on Open Source projects at Invertase, be sure to check them out on the [Invertase](https://github.com/invertase) GitHub profile! 
-
-Here's some of the ones I've worked on:
+Here's some of the more recent projects I have created:
 
 #### Dart & Flutter
 
@@ -20,10 +18,9 @@ Here's some of the ones I've worked on:
 
 #### JavaScript, React & React Native
 
- - 🧩 [Firebase Extensions](https://github.com/firebase/extensions) - pre-packaged solutions to extend Firebase functionality.
- - 📘 [docs.page](https://github.com/invertase/docs.page) - create instant Open Source docs with zero configuration for your next Open Source project.
  - 🔥 [React Native Firebase](https://github.com/invertase/react-native-firebase) - a Firebase implementation for React Native supporting all Firebase services.
  - ⚛️ [Notifee](https://github.com/invertase/notifee) - a feature rich local notifications library for React Native Android & iOS.
+ - ⏩ [Denque](https://github.com/Salakar/denque)
 
 Excluding JS/TS these are some of the languages I've worked with the most:
 
