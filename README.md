@@ -1,10 +1,8 @@
-Hello there :wave: 
-
-I'm Mike.
+Hello there :wave: I'm Mike.
 
 ![salakars's Github Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=salakar&count_private=true&theme=dark&show_icons=true&include_orgs=true )
 
-Here's some of the more recent projects I have created:
+**Here's some of the projects I have created:**
 
 #### Dart & Flutter
 
@@ -22,6 +20,7 @@ Here's some of the more recent projects I have created:
  - ⚛️ [Notifee](https://github.com/invertase/notifee) - a feature rich local notifications library for React Native Android & iOS.
  - ⏩ [Denque](https://github.com/Salakar/denque) - the fastest implementation of a double ended queue in JS. Used by the official Redis, MongoDB, MariaDB & MySQL libraries for Node.js and many other libraries.
  - 🐍 [Firebase Functions Python](https://github.com/firebase/firebase-functions-python) - the official SDK for defining Cloud Functions for Firebase in Python.
+ - 🔥 [Firestore iOS SDK Binary Distribution](https://github.com/invertase/firestore-ios-sdk-frameworks) - precompiled Firestore iOS SDK xcframework files for fast application builds.
 
 Excluding JS/TS these are some of the languages I've worked with the most:
 
