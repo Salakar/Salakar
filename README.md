@@ -1,7 +1,5 @@
 Hello there :wave: I'm Mike.
 
-![salakars's Github Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=salakar&count_private=true&theme=dark&show_icons=true&include_orgs=true )
-
 **Here's some of the projects I have created:**
 
 #### Dart & Flutter
@@ -21,7 +19,3 @@ Hello there :wave: I'm Mike.
  - ⏩ [Denque](https://github.com/Salakar/denque) - the fastest implementation of a double ended queue in JS. Used by the official Redis, MongoDB, MariaDB & MySQL libraries for Node.js and many other libraries.
  - 🐍 [Firebase Functions Python](https://github.com/firebase/firebase-functions-python) - the official SDK for defining Cloud Functions for Firebase in Python.
  - 🔥 [Firestore iOS SDK Binary Distribution](https://github.com/invertase/firestore-ios-sdk-frameworks) - precompiled Firestore iOS SDK xcframework files for fast application builds.
-
-Excluding JS/TS these are some of the languages I've worked with the most:
-
-![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=salakar&hide=php,css,typescript,javascript,html,makefile,c&layout=compat&theme=dark&include_orgs=true&langs_count=6)
